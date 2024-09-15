@@ -38,12 +38,12 @@ Few-shot learning involved preparing a training dataset with sample questions an
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/robinyUArizona/Enhancing-Retail-Operations-with-LLM.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 4_sqldb_tshirts
+  cd Enhancing-Retail-Operations-with-LLM
 ```
 3. Install the required dependencies using pip:
 
