@@ -21,7 +21,7 @@ Few-shot learning involved preparing a training dataset with sample questions an
 - UI: Streamlit
 
 ### Overview of the project
-![Project Overview](https://github.com/robinyUArizona/Generative-AI/blob/main/Retail%20Industry%20LLM%20projects%20using%20LangChain%20Google%20Palm/Overview_project.jpg)
+![Project Overview](https://github.com/robinyUArizona/Enhancing-Retail-Operations-with-LLM/blob/main/Overview_project.jpg)
 
 
 ### Project Structure
@@ -76,7 +76,7 @@ streamlit run main.py
 
 
 ### Outcome
-![Alt text](https://github.com/robinyUArizona/Generative-AI/blob/main/Retail%20Industry%20LLM%20projects%20using%20LangChain%20Google%20Palm/AtliQ_T_shirts.jpg)
+![Alt text](https://github.com/robinyUArizona/Enhancing-Retail-Operations-with-LLM/blob/main/AtliQ_T_shirts.jpg)
 
 
 
